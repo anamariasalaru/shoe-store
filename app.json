@@ -1,0 +1,12 @@
+{
+  "name": "shoe-store",
+  "displayName": "shoe-store",
+  "expo": {
+    "name": "shoe-store",
+    "slug": "shoe-store",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
